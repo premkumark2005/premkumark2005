@@ -1,75 +1,71 @@
-👋 Hi, I’m Premkumar K
+🚀 Premkumar K
+AI & Machine Learning Engineer | Backend & Full Stack Developer
 
 🎓 B.Tech Artificial Intelligence & Machine Learning (3rd Year)
 📍 Tamil Nadu, India
-💻 Aspiring Machine Learning Engineer | Backend / Full Stack Developer
+💡 Building intelligent systems & scalable web applications
 
-I’m passionate about building real-world applications using Machine Learning and Full-Stack technologies. I enjoy working on projects that combine data, logic, and scalable systems, and I continuously improve my skills through hands-on development and hackathons.
+⚡ About Me
 
-🚀 Technical Skills
+I am a driven AIML engineering student with hands-on experience in Machine Learning, Backend Systems, and Full Stack Development.
+I focus on real-world problem solving, not just academic code — turning ideas into working, deployable solutions.
 
-Programming Languages
+✔ Strong foundation in ML algorithms & data pipelines
+✔ Experience building end-to-end MERN applications
+✔ Passionate about backend logic, APIs, and system design
+✔ Continuous learner through projects, hackathons & internships
 
-Python, Java, C, C++ (learning)
+🧠 Core Technical Expertise
+🧩 Programming Languages
 
-Machine Learning & AI
+Python | Java | C | C++ (Learning)
+
+🤖 Machine Learning & AI
 
 Scikit-Learn, Pandas, NumPy
 
 Computer Vision (CNNs, AlexNet)
 
-NLP (basics)
+NLP (Text Processing, Intent Classification)
 
-Web Development
+🌐 Web Development
 
-Frontend: HTML, CSS, JavaScript, React.js
+Frontend: HTML5, CSS3, JavaScript, React.js
 
 Backend: Node.js, Express.js
 
 Databases: MongoDB, MySQL
 
-Tools & Platforms
+🛠 Tools & Platforms
 
-Git & GitHub
+Git & GitHub | Postman | VS Code | Azure Fundamentals
 
-VS Code
+🏗️ Featured Projects (Real-World Impact)
+🩸 LifeLine – Blood Donor Connect
 
-Postman
+MERN Stack | Google Maps API
 
-Azure (Fundamentals)
+🔹 Built a platform to connect patients with nearby blood donors
+🔹 Implemented geolocation-based donor discovery
+🔹 Designed for real-world healthcare impact
 
-🧠 Projects
-🔹 LifeLine: Blood Donor Connect
+🔗 Repo: https://github.com/premkumark2005/LifeLine
 
-📌 Tech Stack: MERN, Google Maps API
+💰 AI Finance Assistant
 
-Built a web platform to connect patients with nearby blood donors
+Python | Machine Learning | NLP
 
-Implemented geolocation-based donor search
+🔹 AI-powered assistant to analyze user expenses
+🔹 Implemented intent classification & smart recommendations
+🔹 Focused on decision-support through data
 
-Focused on real-world healthcare impact
+🌍 Crowdfunding Platform
 
-🔗 Repository: https://github.com/premkumark2005/LifeLine
+MERN Stack
 
-🔹 AI Finance Assistant
-
-📌 Tech Stack: Python, ML, NLP
-
-Developed an AI-powered assistant to analyze expenses
-
-Implemented intent classification and recommendation logic
-
-Provided actionable financial insights
-
-🔹 Crowdfunding Platform
-
-📌 Tech Stack: MERN Stack
-
-Full-stack crowdfunding website with authentication
-
-Campaign creation and management
-
-REST API integration
+🔹 Full-stack application with authentication & campaign management
+🔹 REST APIs using Node.js & Express
+🔹 MongoDB for scalable data storage
 
 🏆 Experience & Achievements
 
@@ -77,32 +73,30 @@ AI & ML Intern – Generative AI Consortium
 
 Participant – Smart India Hackathon
 
-Active contributor to academic and personal projects
+Built multiple academic & personal projects
 
-Strong foundation in DSA, ML concepts, and backend systems
+Strong problem-solving mindset with DSA & ML foundations
 
-📊 GitHub Stats
-
+📊 GitHub Performance
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=premkumark2005&show_icons=true&theme=dark" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumark2005&layout=compact&theme=dark" height="165"/> </p>
 🌐 Connect With Me
 
-🌐 Portfolio: https://premkumar-k.onrender.com
+🔗 Portfolio: https://premkumar-k.onrender.com
 
 💼 LinkedIn: https://www.linkedin.com/in/premkumark20/
 
-🧑‍💻 GitHub: https://github.com/premkumark2005
-
 📧 Email: premkumaravel2005@gmail.com
 
-📌 Career Goals
+🎯 Career Focus
 
-I am actively seeking internship and entry-level roles in:
+Actively seeking Internship / Entry-Level roles in:
 
 Machine Learning
 
-Backend Development
+Backend Engineering
 
-Full Stack Engineering
+Full Stack Development
 
-I enjoy learning, building, and collaborating on impactful projects.
+I thrive in environments where I can learn fast, build real systems, and create impact.
 
-⭐ If you like my work, feel free to star my repositories!
+⭐ If you find my work useful, consider starring my repositories!
