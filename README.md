@@ -95,6 +95,9 @@ I focus on **real-world problem solving**, not just academic code — turning id
 </p>
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/K_Premkumar?theme=dark&font=Karma)
+
+---
 
 ## 🌐 **Connect With Me**
 
