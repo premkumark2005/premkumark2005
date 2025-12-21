@@ -95,7 +95,13 @@ I focus on **real-world problem solving**, not just academic code — turning id
 </p>
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/K_Premkumar?theme=dark&font=Karma)
+## 🧩 **Competitive Programming**
+
+<p align="center">
+  <a href="https://leetcode.com/premkumark2005/">
+    <img src="https://leetcard.jacoblin.cool/premkumark2005?theme=dark&font=Karma"/>
+  </a>
+</p>
 
 ---
 
