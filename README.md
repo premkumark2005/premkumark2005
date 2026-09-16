@@ -1,101 +1,156 @@
-# 🚀 **Premkumar K**
-### **AI & Machine Learning Engineer | Backend & Full Stack Developer**
+# 👋 Hi, I'm Premkumar K
 
-🎓 **B.Tech Artificial Intelligence & Machine Learning (3rd Year)**  
-📍 **Tamil Nadu, India**  
-💡 **Building intelligent systems & scalable web applications**
+### 🤖 AI & Machine Learning Engineer | Backend Developer | Full Stack Developer
 
----
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**
+📍 Tamil Nadu, India
+💻 Passionate about **AI, backend engineering, scalable applications, and problem solving**
 
-## ⚡ **About Me**
-
-I am a **driven AIML engineering student** with hands-on experience in **Machine Learning**, **Backend Systems**, and **Full Stack Development**.  
-I focus on **real-world problem solving**, not just academic code — turning ideas into **working, deployable solutions**.
-
-✔ **Strong foundation in ML algorithms & data pipelines**  
-✔ **Experience building end-to-end MERN applications**  
-✔ **Passionate about backend logic, APIs, and system design**  
-✔ **Continuous learner through projects, hackathons & internships**
+I enjoy transforming ideas into **practical, production-oriented systems** — from intelligent ML applications and NLP solutions to REST APIs and full-stack web platforms.
 
 ---
 
-## 🧠 **Core Technical Expertise**
+## 🚀 About Me
 
-### 🧩 **Programming Languages**
-**Python** | **Java** | **C** | **C++ (Learning)**
+I'm an **Artificial Intelligence & Machine Learning student** with hands-on experience building projects across **Machine Learning, NLP, Backend Development, and Full Stack Development**.
 
----
+My current focus is on building a strong foundation in **software engineering and AI**, while continuously improving my **DSA, system design, APIs, databases, and cloud knowledge**.
 
-### 🤖 **Machine Learning & AI**
-- **Scikit-Learn**
-- **Pandas**
-- **NumPy**
-- **Computer Vision (CNNs, AlexNet)**
-- **NLP (Text Processing, Intent Classification)**
-
----
-
-### 🌐 **Web Development**
-- **Frontend:** **HTML5**, **CSS3**, **JavaScript**, **React.js**  
-- **Backend:** **Node.js**, **Express.js**  
-- **Databases:** **MongoDB**, **MySQL**
+* 🧠 Building and experimenting with **AI/ML applications**
+* 🔧 Developing **REST APIs and backend services**
+* 🌐 Creating **full-stack web applications**
+* 📊 Working with **data processing and machine learning pipelines**
+* ☁️ Exploring **Microsoft Azure and cloud technologies**
+* 🧩 Solving problems through **Data Structures & Algorithms**
+* 🚀 Interested in building **real-world, scalable systems**
 
 ---
 
-### 🛠 **Tools & Platforms**
-**Git & GitHub** | **Postman** | **VS Code** | **Azure Fundamentals**
+## 🛠️ Tech Stack
 
----
+### 👨‍💻 Programming
 
-## 🏗️ **Featured Projects (Real-World Impact)**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+</p>
 
-### 🩸 **LifeLine – Blood Donor Connect**
-**MERN Stack | Google Maps API**
+### 🤖 AI / Machine Learning
 
-🔹 **Built a platform to connect patients with nearby blood donors**  
-🔹 **Implemented geolocation-based donor discovery**  
-🔹 **Designed for real-world healthcare impact**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-🔗 **Repo:** https://github.com/premkumark2005/LifeLine
+**Technologies:**
+`Scikit-learn` `Pandas` `NumPy` `NLP` `Computer Vision` `CNN` `AlexNet` `Data Processing`
 
----
+### 🌐 Web Development
 
-### 💰 **AI Finance Assistant**
-**Python | Machine Learning | NLP**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
 
-🔹 **AI-powered assistant to analyze user expenses**  
-🔹 **Implemented intent classification & smart recommendations**  
-🔹 **Focused on decision-support through data**
+**Frontend:** `HTML5` `CSS3` `JavaScript` `React.js`
+**Backend:** `Node.js` `Express.js`
+**APIs:** `REST APIs`
 
----
+### 🗄️ Databases
 
-### 🌍 **Crowdfunding Platform**
-**MERN Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-🔹 **Full-stack application with authentication & campaign management**  
-🔹 **REST APIs using Node.js & Express**  
-🔹 **MongoDB for scalable data storage**
+`MongoDB` `MySQL`
 
----
+### ☁️ Tools & Platforms
 
-## 🏆 **Experience & Achievements**
-
-- **AI & ML Intern – Generative AI Consortium**  
-- **Participant – Smart India Hackathon**  
-- **Built multiple academic & personal projects**  
-- **Strong problem-solving mindset with DSA & ML foundations**
-
----
-
-## 📊 **GitHub Performance**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumark2005&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumark2005&layout=compact&theme=dark" height="165"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure" />
 </p>
 
 ---
-## 🧩 **Competitive Programming**
+
+# 🔥 Featured Projects
+
+## 🧠 Company Intelligent Summarizer
+
+**Generative AI | NLP | Python**
+
+An intelligent document and information summarization system designed to transform large volumes of company-related content into **concise, meaningful summaries**.
+
+### Highlights
+
+* 🤖 Automated summarization of lengthy company documents
+* 📝 Uses **Natural Language Processing** for text understanding
+* 🧠 Extracts and presents important information efficiently
+* ⚡ Reduces the time required to review large documents
+* 📊 Designed to improve information accessibility and decision support
+
+---
+
+## 💰 AI Finance Assistant
+
+**Python | Machine Learning | NLP**
+
+An AI-powered application designed to help users understand and analyze their financial expenses.
+
+### Highlights
+
+* 🤖 Intent classification
+* 📊 Expense analysis
+* 🧠 NLP-based text processing
+* 💡 Intelligent recommendations
+* 📈 Data-driven decision support
+
+---
+
+## 🌍 Crowdfunding Platform
+
+**MERN Stack**
+
+A full-stack web application for creating and managing crowdfunding campaigns.
+
+### Highlights
+
+* 🔐 User authentication
+* 📢 Campaign creation and management
+* 🔄 RESTful APIs
+* 🗄️ MongoDB-based data storage
+* ⚡ React-based frontend
+
+---
+
+# 🧠 Currently Learning
+
+* 📌 Advanced **Data Structures & Algorithms**
+* 📌 **Backend Architecture & API Design**
+* 📌 **Machine Learning & Deep Learning**
+* 📌 **Natural Language Processing**
+* 📌 **System Design Fundamentals**
+* 📌 **Cloud & Microsoft Azure**
+* 📌 Writing **clean, maintainable, production-oriented code**
+
+---
+
+# 🏆 Experience & Achievements
+
+* 🤖 **AI & ML Intern — Generative AI Consortium**
+* 💡 **Participant — Smart India Hackathon**
+* 🧠 Built multiple **AI/ML and full-stack projects**
+* 💻 Practicing **DSA and competitive programming**
+* ☁️ **Microsoft Azure Fundamentals Certified**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumark2005&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumark2005&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🧩 Competitive Programming
 
 <p align="center">
   <a href="https://leetcode.com/K_Premkumar/">
@@ -105,24 +160,73 @@ I focus on **real-world problem solving**, not just academic code — turning id
 
 ---
 
-## 🌐 **Connect With Me**
+# 📈 My Development Journey
 
-🔗 **Portfolio:** https://premkumar-k.onrender.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/premkumark20/  
-📧 **Email:** **premkumaravel2005@gmail.com**
+```text
+AI / ML
+   │
+   ├── Machine Learning
+   ├── NLP
+   ├── Generative AI
+   ├── Computer Vision
+   └── Data Processing
+          │
+          ▼
+Backend Engineering
+   │
+   ├── Node.js
+   ├── Express.js
+   ├── REST APIs
+   └── Database Design
+          │
+          ▼
+Full Stack Development
+   │
+   ├── React.js
+   ├── JavaScript
+   ├── MongoDB
+   └── Authentication
+          │
+          ▼
+Cloud & Scalable Systems
+```
 
 ---
 
-## 🎯 **Career Focus**
+# 🎯 Career Interests
 
-Actively seeking **Internship / Entry-Level roles** in:
+I'm interested in opportunities where I can work on:
 
-- **Machine Learning**
-- **Backend Engineering**
-- **Full Stack Development**
+**🤖 Machine Learning**
+**🧠 Generative AI & NLP**
+**⚙️ Backend Engineering**
+**🌐 Full Stack Development**
+**☁️ Cloud & AI Applications**
 
-I thrive in environments where I can **learn fast**, **build real systems**, and **create impact**.
+My goal is to become an engineer who can combine **AI capabilities with strong software engineering** to build useful and scalable products.
 
 ---
 
-### ⭐ **If you find my work useful, consider starring my repositories!**
+# 🤝 Let's Connect
+
+🌐 **Portfolio:**
+https://premkumar-k.onrender.com
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/premkumark20/
+
+💻 **GitHub:**
+https://github.com/premkumark2005
+
+📧 **Email:**
+[kpremkumar1522@gmail.com](mailto:kpremkumar1522@gmail.com)
+
+---
+
+<p align="center">
+  <b>🚀 Learn • Build • Solve • Repeat</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
